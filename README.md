@@ -16,3 +16,21 @@ The chatbot is fully mobile-responsive, allowing users to interact with it easil
 
 ---
 
+## Technologies Used
+
+- React JS
+- CSS
+- Gemini AI API
+- JavaScript 
+
+
+## Project Structure 
+/src
+  ├── components/
+  ├── assets/
+  ├── App.js
+  ├── index.js
+  └── styles.css
+
+
+  
